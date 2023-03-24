@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88d7af73.css",
+    "main.js": "/static/js/main.000e9ff5.js",
+    "static/media/houses2.png": "/static/media/houses2.7662f71ef06df9354b07.png",
+    "static/media/Avator101.png": "/static/media/Avator101.f11703f1c2dca74efb4f.png",
+    "static/media/home5.jpg": "/static/media/home5.e469d3c0b5222249f872.jpg",
+    "static/media/logo.png": "/static/media/logo.e0ee9eb56dbec8a93570.png",
+    "index.html": "/index.html",
+    "main.88d7af73.css.map": "/static/css/main.88d7af73.css.map",
+    "main.000e9ff5.js.map": "/static/js/main.000e9ff5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88d7af73.css",
+    "static/js/main.000e9ff5.js"
+  ]
+}
