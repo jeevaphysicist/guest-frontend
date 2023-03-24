@@ -1,0 +1,39 @@
+.house{
+    font-weight: bolder;
+}
+.house .name{
+    width: 100%;
+    border: 5px solid gray;
+    border-radius: 20px;
+}
+.house .name .houseimage{
+    height: 250px;
+    border-radius: 10px 0px 0px 10px;
+   
+}
+
+.list{
+    width: 100%;
+    border:2px solid gray;
+    border-radius: 20px;
+    
+}
+.thumb{
+    width: 60px;
+    height:60px;
+}
+.roomimg{
+    width: 100%;
+    height:250px;
+    border-radius: 20px;
+}
+.scroll{
+    display: flex;
+    overflow-y: scroll;
+    /* flex-direction: column; */
+}
+.control{
+    overflow-y: hidden;
+}
+
+

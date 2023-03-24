@@ -1,0 +1,20 @@
+.display{
+    border: 5px solid darkgray;
+    border-radius: 7px;
+    font-weight:bolder ;
+    overflow-y: scroll;
+    height: 90vh;
+}
+
+.card-img-top{
+    height: 250px;
+}
+
+.address{
+    height: 20px;
+    overflow-y:hidden;
+}
+
+.productcard div{
+    color: rgb(8, 40, 115);
+}

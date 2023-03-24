@@ -1,0 +1,25 @@
+ 
+.data {
+    /* width: 100%; */
+    /* height: 50px; */
+    background-color: rgb(100 116 139);
+    color: blue;
+}
+.data .value{
+    font-weight: bolder;
+    color: whitesmoke;
+}
+.data .listitems{
+    width: 200px;
+   font-weight: bolder;
+   color:rgb(15 23 42);
+   border: 2px solid white;
+   overflow-x: hidden;
+   border-radius: 7px;
+}
+
+.back{
+    background-image: url("../../asstes/home5.jpg");
+    background-size: cover;
+    height: 100vh;
+}
