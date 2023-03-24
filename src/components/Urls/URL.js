@@ -1,3 +1,2 @@
-const API = "http://localhost:9090/api"; 
-
+const API = "https://guest-room-server.onrender.com"; 
 module.exports = API ;
